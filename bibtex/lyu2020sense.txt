@@ -1,0 +1,10 @@
+@article{lyu2020sense,
+  title={Sense and sensibility: Characterizing social media users regarding the use of controversial terms for covid-19},
+  author={Lyu, Hanjia and Chen, Long and Wang, Yu and Luo, Jiebo},
+  journal={IEEE Transactions on Big Data},
+  volume={7},
+  number={6},
+  pages={952--960},
+  year={2020},
+  publisher={IEEE}
+}
