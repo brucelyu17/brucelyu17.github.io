@@ -1,0 +1,6 @@
+@article{qian2021look,
+  title={Look behind the Censorship: Reposting-User Characterization and Muted-Topic Restoration},
+  author={Qian, Yichi and Shan, Qiyi and Lyu, Hanjia and Luo, Jiebo},
+  journal={arXiv preprint arXiv:2110.11919},
+  year={2021}
+}
