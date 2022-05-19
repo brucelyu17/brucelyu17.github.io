@@ -1,0 +1,6 @@
+@article{zhu2021learning,
+  title={Learning to Aggregate and Refine Noisy Labels for Visual Sentiment Analysis},
+  author={Zhu, Wei and Zheng, Zihe and Zheng, Haitian and Lyu, Hanjia and Luo, Jiebo},
+  journal={arXiv preprint arXiv:2109.07509},
+  year={2021}
+}
