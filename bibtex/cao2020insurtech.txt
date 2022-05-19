@@ -1,0 +1,9 @@
+@article{cao2020insurtech,
+  title={InsurTech development: Evidence from Chinese media reports},
+  author={Cao, Siqing and Lyu, Hanjia and Xu, Xian},
+  journal={Technological Forecasting and Social Change},
+  volume={161},
+  pages={120277},
+  year={2020},
+  publisher={Elsevier}
+}
