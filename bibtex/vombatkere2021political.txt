@@ -1,0 +1,8 @@
+@inproceedings{vombatkere2021political,
+  title={How Political is the Spread of COVID-19 in the United States?},
+  author={Vombatkere, Karan and Lyu, Hanjia and Luo, Jiebo},
+  booktitle={International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation},
+  pages={13--22},
+  year={2021},
+  organization={Springer}
+}
