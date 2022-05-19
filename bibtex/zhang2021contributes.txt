@@ -1,0 +1,10 @@
+@article{zhang2021contributes,
+  title={What Contributes to a Crowdfunding Campaign's Success? Evidence and Analyses from GoFundMe Data},
+  author={Zhang, Xupin and Lyu, Hanjia and Luo, Jiebo},
+  journal={Journal of Social Computing},
+  volume={2},
+  number={2},
+  pages={183--192},
+  year={2021},
+  publisher={TUP}
+}
