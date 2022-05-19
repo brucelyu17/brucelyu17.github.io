@@ -1,0 +1,10 @@
+@article{lyu2022social,
+  title={Social media study of public opinions on potential COVID-19 vaccines: informing dissent, disparities, and dissemination},
+  author={Lyu, Hanjia and Wang, Junda and Wu, Wei and Duong, Viet and Zhang, Xiyang and Dye, Timothy D and Luo, Jiebo},
+  journal={Intelligent medicine},
+  volume={2},
+  number={01},
+  pages={1--12},
+  year={2022},
+  publisher={Chinese Medical Association Publishing House Co., Ltd 69 Dongheyan Street~…}
+}
