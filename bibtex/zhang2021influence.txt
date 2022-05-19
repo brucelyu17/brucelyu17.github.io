@@ -1,0 +1,11 @@
+@ARTICLE{zhang2021influence,
+AUTHOR={Zhang, Xiyang and Wang, Yu and Lyu, Hanjia and Zhang, Yipeng and Liu, Yubao and Luo, Jiebo},   
+TITLE={The Influence of COVID-19 on the Well-Being of People: Big Data Methods for Capturing the Well-Being of Working Adults and Protective Factors Nationwide},      
+JOURNAL={Frontiers in Psychology},      
+VOLUME={12},      
+YEAR={2021},      
+URL={https://www.frontiersin.org/article/10.3389/fpsyg.2021.681091},       
+DOI={10.3389/fpsyg.2021.681091},      
+ISSN={1664-1078},   
+ABSTRACT={The COVID-19 outbreak has affected the lives of people across the globe. To investigate the mental impact of COVID-19 and to respond to the call of researchers for the use of unobtrusive and intensive measurement in capturing time-sensitive psychological concepts (e.g., affect), we used big data methods to investigate the impact of COVID-19 by analyzing 348,933 tweets that people posted from April 1, 2020 to April 24, 2020. The dataset covers 2,231 working adults, who are from 454 counties across 48 states in the United States. In this study, we theorize the similarity and dissimilarity between COVID-19 and other common stressors. Similar to other stressors, pandemic severity negatively influenced the well-being of people by increasing negative affect. However, we did not find an influence of pandemic severity on the positive affect of the people. Dissimilar to other stressors, the protective factors for people during COVID-19 are not common factors that make people resilient to stress and they echo the unique experience during COVID-19. Moreover, we analyzed the text content of 348,933 tweets through Linguistic Inquiry Word Count (LIWC) and word cloud analysis to further reveal the psychological impact of COVID-19 and why the protective factors make people resilient to the mental impact of COVID-19. These exploratory analyses revealed the specific emotions that people experienced and the topics that people are concerned about during the pandemic. The theoretical and practical implications are discussed.}
+}
