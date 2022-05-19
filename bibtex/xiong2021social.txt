@@ -1,0 +1,10 @@
+@article{xiong2021social,
+  title={Social Media Opinions on Working From Home in the United States During the COVID-19 Pandemic: Observational Study},
+  author={Xiong, Ziyu and Li, Pin and Lyu, Hanjia and Luo, Jiebo and others},
+  journal={JMIR medical informatics},
+  volume={9},
+  number={7},
+  pages={e29195},
+  year={2021},
+  publisher={JMIR Publications Inc., Toronto, Canada}
+}
