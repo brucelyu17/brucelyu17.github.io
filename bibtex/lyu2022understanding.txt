@@ -1,0 +1,6 @@
+@article{lyu2022understanding,
+  title={Understanding Political Polarization on Social Platforms by Jointly Modeling Users, Connections and Multi-modal Post Contents in Heterogeneous Graphs},
+  author={Lyu, Hanjia and Luo, Jiebo},
+  journal={arXiv preprint arXiv:2201.05946},
+  year={2022}
+}
