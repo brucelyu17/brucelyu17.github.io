@@ -1,0 +1,7 @@
+@article{lyu2021understanding,
+  title={Understanding Public Opinion Toward the\# StopAsianHate Movement and the Relation With Racially Motivated Hate Crimes in the US},
+  author={Lyu, Hanjia and Fan, Yangxin and Xiong, Ziyu and Komisarchik, Mayya and Luo, Jiebo},
+  journal={IEEE Transactions on Computational Social Systems},
+  year={2021},
+  publisher={IEEE}
+}
