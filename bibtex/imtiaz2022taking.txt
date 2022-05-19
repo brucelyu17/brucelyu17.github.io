@@ -1,0 +1,6 @@
+@article{imtiaz2022taking,
+  title={Taking sides: Public Opinion over the Israel-Palestine Conflict in 2021},
+  author={Imtiaz, Arsal and Khan, Danish and Lyu, Hanjia and Luo, Jiebo},
+  journal={arXiv preprint arXiv:2201.05961},
+  year={2022}
+}
