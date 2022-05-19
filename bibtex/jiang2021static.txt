@@ -1,0 +1,8 @@
+@inproceedings{jiang2021static,
+  title={From Static to Dynamic Prediction: Wildfire Risk Assessment Based on Multiple Environmental Factors},
+  author={Jiang, Tanqiu and Bendre, Sidhant K and Lyu, Hanjia and Luo, Jiebo},
+  booktitle={2021 IEEE International Conference on Big Data (Big Data)},
+  pages={4877--4886},
+  year={2021},
+  organization={IEEE}
+}
