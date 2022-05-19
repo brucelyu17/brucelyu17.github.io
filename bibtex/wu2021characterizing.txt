@@ -1,0 +1,8 @@
+@article{wu2021characterizing,
+  title={Characterizing discourse about COVID-19 vaccines: A Reddit version of the pandemic story},
+  author={Wu, Wei and Lyu, Hanjia and Luo, Jiebo},
+  journal={Health Data Science},
+  volume={2021},
+  year={2021},
+  publisher={AAAS}
+}
