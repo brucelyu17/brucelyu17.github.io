@@ -1,0 +1,6 @@
+@article{zhou2022ban,
+  title={" Ban the Chinese spyware!": A Fine-Grained Analysis of Public Opinion toward Chinese Technology Companies on Reddit},
+  author={Zhou, Enting and Liu, Yurong and Lyu, Hanjia and Luo, Jiebo},
+  journal={arXiv preprint arXiv:2201.05538},
+  year={2022}
+}
