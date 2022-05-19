@@ -1,0 +1,8 @@
+@inproceedings{chen2021fine,
+  title={Fine-grained analysis of the use of neutral and controversial terms for COVID-19 on social media},
+  author={Chen, Long and Lyu, Hanjia and Yang, Tongyu and Wang, Yu and Luo, Jiebo},
+  booktitle={International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation},
+  pages={57--67},
+  year={2021},
+  organization={Springer}
+}
